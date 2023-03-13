@@ -1,6 +1,24 @@
-body{
-    margin: 0;
-    padding: 0;
-    background: linear-gradient(0deg, rgb(125, 168, 168) 0%, rgb(102, 136, 123) 100%);
+/* 
 
-}
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+
+body{
+    
+    font-family: "Anek Devanagari", sans-serif;
+    margin-left: 10em;
+    width: 60%;
+  }
+
+
+
+
+
+#searchInput,#searchButton,#showAllButton{
+    margin-right: auto;
+    border-radius: 9px;
+    border: solid red 2px;
+    margin: 5px;
+} */

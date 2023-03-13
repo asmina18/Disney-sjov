@@ -1,5 +1,6 @@
+// eto stariy metod katory mi polzuemsya hotya eto ne oshibka   mojno eto i po drugoe po noviy versi polzovatsya // 
 
-fetch("https://jsonplaceholder.typicode.com/users",{
+/*fetch("https://jsonplaceholder.typicode.com/users",{
     method:'POST',
     headers:{
         'content-Type': 'application/json'
@@ -11,7 +12,7 @@ fetch("https://jsonplaceholder.typicode.com/users",{
 })
 .then((res) => res.json())
 
-.then((resData) => console.log(resData))
+.then((resData) => console.log(resData))*/
 
 
 
